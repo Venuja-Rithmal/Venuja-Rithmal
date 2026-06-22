@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🤔 I,m Venuja Rithmal
+🌱 I’m currently learning Computer Science
+📫 How to reach me:https://www.linkedin.com/in/venuja-rithmal-61b895266?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+
+
 <!--
 **Venuja-Rithmal/Venuja-Rithmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
