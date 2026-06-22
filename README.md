@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🤔 I,m Venuja Rithmal
-🌱 I’m currently learning Computer Science
+🤔 I,m Venuja Rithmal <br>
+🌱 I’m currently learning Computer Science <br>
 📫 How to reach me:https://www.linkedin.com/in/venuja-rithmal-61b895266?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 
